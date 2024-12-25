@@ -92,3 +92,7 @@ or experiment with new ideas without affecting the main codebase.
   git commit -m "Added a new branch"
   git push --set-upstream origin gitbranch1 (or)
   git push origin branch_name
+
+  v)To see the current branch
+  git branch
+  
