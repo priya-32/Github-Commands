@@ -95,4 +95,20 @@ or experiment with new ideas without affecting the main codebase.
 
   v)To see the current branch
   git branch
-  
+
+
+  7 add updated changes from github to vs code
+     git pull
+
+  8 pull 
+  if we want to pull from github we have to use
+  git pull origin branch_name
+  eg git pull origin main
+
+  9 To merge from one branch to another
+
+       git merge branch_name
+        eg git merge branch1 
+
+
+        ---------------------------------
